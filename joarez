@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Campanha de Doação Joarez Freitas</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<style>
+		body {
+			background-color: #fffcee;
+			color: #000;
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+		}
+
+		header {
+			background-color: #f5a623;
+			padding: 20px;
+			text-align: center;
+			color: #fff;
+		}
+
+		h1 {
+			margin: 0;
+			font-size: 36px;
+			line-height: 1.2;
+		}
+
+		main {
+			max-width: 960px;
+			margin: 0 auto;
+			padding: 40px;
+		}
+
+		section {
+			margin-bottom: 40px;
+		}
+
+		h2 {
+			margin-top: 0;
+			font-size: 24px;
+			line-height: 1.2;
+		}
+
+		p {
+			font-size: 18px;
+			line-height: 1.5;
+		}
+
+		img {
+			max-width: 100%;
+			height: auto;
+		}
+
+		footer {
+			background-color: #000;
+			color: #fff;
+			padding: 20px;
+			text-align: center;
+		}
+
+		a {
+			color: #f5a623;
+		}
+	</style>
+</head>
+<body>
+	<header>
+		<h1>Pix solidário</h1>
+	</header>
+	<main>
+		<section>
+			<h2>Doar Agora</h2>
+			<p>Para doar, utilize a chave PIX abaixo:</p>
+			<p><strong>Chave PIX CPF:</strong> 011.475.920-04</p>
+		</section>
+		<section>
+			<h2>Sobre a Campanha</h2>
+			<p>A Campanha de Doação de Câncer é uma iniciativa que visa arrecadar fundos para ajudar no tratamento de joarez diagnosticado com câncer.</p>
+			<p>Com a sua ajuda, podemos oferecer suporte financeiro ao paciente, que necessita da cirurgia.</p>
+		</section>
+		<section>
+			<h2>Imagens da Campanha</h2>
+			<img src="WhatsApp Image 2023-03-15 at 19.41.54.jpeg" alt="Imagem 1">
+			<img src="imagem2.jpg" alt="Imagem 2">
+			<img src="imagem3.jpg" alt="Imagem 3">
+		</section>
+	</main>
+	<footer>
+		<p>Copyright © Campanha de Doação de Câncer.
+			Todos os direitos reservados. Desenvolvido por <a href="#">gabriel outeiro de jesus</a>.</p>
+	</footer>
+</body>
+</html>
